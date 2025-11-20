@@ -1,0 +1,1 @@
+const AllVehicles = () => <h1>All Vehicles</h1>;
